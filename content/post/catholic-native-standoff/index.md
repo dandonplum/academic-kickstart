@@ -9,7 +9,7 @@ tags: []
 categories: []
 date: 2019-08-31T18:11:14-04:00
 lastmod: 2019-08-31T18:11:14-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -27,8 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<p>*I initially wrote this piece two weeks after the standoff between Nick Sandmann and Nathan Phillips, in an attempt to understand the various issues at play for myself, with an emphasis on the role that fast-paced media played in shaping the narrative. 
-Here it is in all of it's lightly edited glory*</p>
+<p>*I initially wrote this piece two weeks after the standoff between Nick Sandmann and Nathan Phillips, in an attempt to understand the various issues at play for myself, with an emphasis on the role that fast-paced media played in shaping the narrative.Here it is in all of its lightly edited glory.*</p>
 
 <p>Over the last few days, the controversy surrounding the standoff between a Native American veteran and a group of students from a Kentucky catholic school has gone “viral”. In this age of instant media attention and smartphone video, the focus and sympathies often lie with the first person to publish their side of the story. Because people naturally believe what they see with their eyes, the evidence presented by video often seems undeniably true and non-contradictory.</p>  
 

@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Daniel Plamondon is a history student at the University of Michigan - Flint
 interests:
 - World War 1
 - Ethnic minorities in military service
@@ -60,6 +59,6 @@ email: ""
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daniel Plamondon is an undergraduate history student at the University of Michigan - Flint. His current research revolves around African-American combat units in World War 1. Other areas of study include American colonialism and its emergence as a world power. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Outside of the classroom or library, he'll be found arguing theology with his friends, enjoying the woods of Michigan with his girlfriend, or tossing a Frisbee with his brothers. 

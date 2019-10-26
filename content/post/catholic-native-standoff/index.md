@@ -27,9 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<p>*I initially wrote this piece two weeks after the standoff between Nick Sandmann and Nathan Phillips, in an attempt to understand the various issues at play for myself, with an emphasis on the role that fast-paced media played in shaping the narrative.Here it is in all of its lightly edited glory.*</p>
+<p><em>I initially wrote this piece two weeks after the standoff between Nick Sandmann and Nathan Phillips, in an attempt to understand the various issues at play for myself, with an emphasis on the role that fast-paced media played in shaping the narrative.Here it is in all of its lightly edited glory.*</p>
 
-<p>Over the last few days, the controversy surrounding the standoff between a Native American veteran and a group of students from a Kentucky catholic school has gone “viral”. In this age of instant media attention and smartphone video, the focus and sympathies often lie with the first person to publish their side of the story. Because people naturally believe what they see with their eyes, the evidence presented by video often seems undeniably true and non-contradictory.</p>  
+<p>Over the last few days, the controversy surrounding the standoff between a Native American veteran and a group of students from a Kentucky catholic school has gone “viral”. In this age of instant media attention and smartphone video, the focus and sympathies often lie with the first person to publish their side of the story. Because people naturally believe what they see with their eyes, the evidence presented by video often seems undeniably true and non-contradictory.</em></p>  
 
 <p>As a historian, I’m trained to understand that everything has a perspective and a bias. That goes from letters to eyewitness accounts to oral histories to the historian’s own analysis. A major discussion that we have in class is whether the presence of video will change how historians interpret this time in the future. I think that this example surrounding the catholic boys and the native American man is a good example of how video won’t change standard practice, merely augment.</p>  
 

@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+<p><em>This is a post originally published at the Marion E. Writing Center blog, where I work as a tutor. In my quest to get this site up and running, I've been using some old or recycled work to test the technical aspects. Technical test or not, I still consider this a worthwhile read</em></p>
+
 <p>There’s a fallacy out there in society today that says writing is irrelevant. Vlogs, podcasts, and short-form social media add credence to the idea that current and future generations will learn and communicate through spoken, not written, word.</p> 
 
 <p>Opposed to this popular new concept is The University; seen these days by the young as a staid old structure with creaky bones and ancient philosophies, where greybeards instruct in the ways of the Analytical, Argumentative, and the Expository. Here, the Holy Trinity is Ethos, Logos, and Pathos, and freshmen must fall on their faces and worship, or be burned in the lake of red ink and brimstone.</p> 
@@ -43,4 +45,4 @@ projects: []
 
 <p>In writing, we’re finding a piece of our soul and baring it for the world to see. Such a personal and naked act deserves time, attention, and struggle. Writing and the hard-fought writing process provide the authenticity we need to feel confident in expressing ourselves in a timeless medium.</p> 
 
-<p>I chose the title “Why We Write” for this post as a nod to the war propaganda film series “Why We Fight”. The films give reasons for why America went to war with the Axis, and demonstrate how the war was being won in the different conflict zones. My hope is that this article boosts your confidence in your writing, and how you’re winning and will continue to win when going through the hard slog of putting thoughts to paper.</p>  
+<p>I chose the title “Why We Write” for this post as a nod to the war propaganda film series “Why We Fight”. The films give reasons for why America went to war with the Axis, and demonstrate how the war was being won in the different conflict zones. My hope is that this article boosts confidence in writing and what it can do, that the hard slog of putting thoughts to paper will be seen as a stepping path to victory.</p>  

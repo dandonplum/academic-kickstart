@@ -37,7 +37,7 @@ projects: []
 
 <p>Cell phone pictures and hastily-typed Tweets are a product of the now, and reflect a lack of attention that discourages thought and discussion, not only between peers but also within oneself. Writing brings a gravity and a careful consideration to communication that is necessary for sharing important concepts and creating attention for one’s ideas. Writing is hard work, and there is little instant gratification. That’s what sets it apart, and why the discipline has come under scrutiny in recent times.</p> 
 
-<p>**But for writing, the beauty is in the process.**</p> 
+<p><strong>But for writing, the beauty is in the process.</strong></p> 
 
 <p>The pursuit of excellence requires the most labor, but also provides the greatest benefit and satisfaction at the end. We don’t write to gain instant fame or recognition that is gone on the next news cycle. We don’t write for a quick “A” that gets lost in the tumult of grades and GPA. We write because our voice deserves to be heard for posterity. We write because what we have to say transcends time and forms of technology.</p> 
 

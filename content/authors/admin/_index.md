@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: History Student
+role: Undergraduate Historian
 
 # Organizations/Affiliations
 organizations:
@@ -59,6 +59,6 @@ email: ""
 #- Visitors
 ---
 
-Daniel Plamondon is an undergraduate history student at the University of Michigan - Flint. His current research revolves around African-American combat units in World War 1. Other areas of study include American colonialism and its emergence as a world power. 
+Daniel Plamondon is an undergraduate history student at the University of Michigan - Flint. His current research revolves around African-American combat units in World War 1. Other areas of study include American colonialism and the emergence of the United States as a world power. 
 
-Outside of the classroom or library, he'll be found arguing theology with his friends, enjoying the woods of Michigan with his girlfriend, or tossing a Frisbee with his brothers. 
+Outside of the classroom or library, he'll be found arguing theology with his friends, enjoying the nature of Michigan with his girlfriend, or tossing a Frisbee with his brothers. 

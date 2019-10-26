@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<p><em>This is a post originally published at the Marion E. Writing Center blog, where I work as a tutor. In my quest to get this site up and running, I've been using some old or recycled work to test the technical aspects. Technical test or not, I still consider this a worthwhile read</em></p>
+<p><em>This is a post originally published at the Marion E. Writing Center blog, where I work as a tutor. In my quest to get this site up and running, I've been using some old or recycled work to test the technical aspects. Technical test or not, I still consider this a worthwhile read.</em></p>
 
 <p>There’s a fallacy out there in society today that says writing is irrelevant. Vlogs, podcasts, and short-form social media add credence to the idea that current and future generations will learn and communicate through spoken, not written, word.</p> 
 
